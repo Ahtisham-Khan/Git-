@@ -1,0 +1,8 @@
+git init : to make a folder a repository of git 
+git add (filename1 filename2 ......) : to add specific file in staging area by their names 
+git add . : to add all the files in staging area present in the curr directoy
+git status : to check the status of the files .
+git log : to see the commit history .
+git reset : to unstage a file from staging area .
+git reset --hard : to unstage a file from staging area and also delete the changes .
+
